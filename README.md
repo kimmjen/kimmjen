@@ -30,46 +30,8 @@ const jeminKim = {
     location: "Seoul, South Korea 🇰🇷",
     role: "Full-Stack Developer",
     experience: "3+ years in Energy IT & Web Development",
-    
-    achievements: {
-        "VPP 데이터 처리 성능": "25배 개선 🚀",
-        "배포 시간 단축": "40% 감소",
-        "UI 로딩 시간": "30% 개선"
-    },
-    
-    currentFocus: [
-        "실시간 데이터 처리 시스템",
-        "CI/CD 파이프라인 자동화",
-        "클라우드 인프라 최적화"
-    ]
 };
 ```
-
-<table>
-<tr>
-<td width="50%">
-
-### � Career Summary
-
-| 기간 | 회사 | 역할 |
-|:---:|:---:|:---:|
-| 2022.08 ~ 2024.07 | **㈜이아이피그리드** | AI팀 대리 |
-| 2021.12 ~ 2022.08 | **㈜아이온커뮤니케이션즈** | 데이터분석팀 |
-| 2024.12 ~ 2025.03 | **소프트웨어공작소** | 프론트엔드 |
-
-</td>
-<td width="50%">
-
-### 🎯 Key Highlights
-
-- 🔋 **VPP(가상발전소)** 데이터 처리 성능 25배 향상
-- ⚡ **전기차 충전 대시보드** 실시간 시스템 구축
-- 🔄 **GitHub Actions CI/CD** 파이프라인 구축
-- ☁️ **AWS 마이그레이션** (EC2 → Elastic Beanstalk)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -111,71 +73,7 @@ const jeminKim = {
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔋 D3 (Dare Discovery Den)
-**데이터 관리 및 시각화 플랫폼**
-
-- Vue.js 기반 직관적인 UI 설계
-- Flask API 설계 및 구현
-- PostgreSQL 대규모 데이터 최적화
-- GitHub Actions CI/CD 구축 → **배포 시간 40% 단축**
-- AWS EC2 → Elastic Beanstalk 마이그레이션
-
-`Vue.js` `Flask` `PostgreSQL` `AWS` `GitHub Actions`
-
-</td>
-<td width="50%">
-
-### ⚡ Arkn Project
-**전기차 충전소 실시간 대시보드**
-
-- WebSocket 기반 실시간 데이터 처리
-- MBESS 시스템 충전량/방전량 시각화
-- 배터리 상태 모니터링 UI
-- **UI 로딩 시간 30% 단축**
-
-`Vue.js` `WebSocket` `Real-time Data`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 D1 (Data Analysis Server)
-**CBL 예측 서비스**
-
-- 한국/일본 전력거래소 기준 CBL 시스템
-- 이상치 분석 및 예측 정확도 향상
-- Git 브랜치 전략 수립
-- CI/CD 자동화 환경 구축
-
-`Python` `Flask` `KDB+` `GitHub Actions`
-
-</td>
-<td width="50%">
-
-### 🏛️ 국회 AI 데이터 구축
-**데이터 라벨링 품질 관리**
-
-- 데이터 라벨러 → 검수자 역할 전환
-- 검수 표준 가이드 제작
-- **labeling-qc.com** 플랫폼 개발
-  - 작업량 관리, 중복 체크, 자동 검사
-
-`Data Labeling` `QC` `Process Automation`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -212,11 +110,23 @@ const jeminKim = {
 
 ---
 
-## � Contact Me
+## 🐍 Snake Animation
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-wpals814@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:wpals814@naver.com)
+![Snake animation](https://raw.githubusercontent.com/kimmjen/kimmjen/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-wpals814@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wpals814@gmail.com)
+[![Email](https://img.shields.io/badge/Naver-wpals814@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:wpals814@naver.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jemin%20Kim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jemin-kim-b381551aa/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kimmjen.github.io-000000?style=for-the-badge&logo=github&logoColor=white)](https://kimmjen.github.io/kimmjen-portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-kimmjen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kimmjen)
 
@@ -226,9 +136,19 @@ const jeminKim = {
 
 <div align="center">
 
-### 💬 Quote
+### 💬 Random Dev Quote
 
-> *"복잡한 문제를 단순하게, 단순한 코드로 강력하게"*
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 😂 Dev Joke
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&bgColor=0D1117)
 
 </div>
 
@@ -236,7 +156,7 @@ const jeminKim = {
 
 <div align="center">
 
-**Thanks for visiting! Feel free to reach out! �**
+**Thanks for visiting! Feel free to reach out! 👋**
 
 ![Visitor Count](https://profile-counter.glitch.me/kimmjen/count.svg)
 
