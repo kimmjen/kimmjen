@@ -75,18 +75,24 @@ const jeminKim = {
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kimmjen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmjen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180"/>
+<a href="https://github.com/kimmjen">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimmjen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="180"/>
+</a>
+<a href="https://github.com/kimmjen">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimmjen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180"/>
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kimmjen&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" height="200"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=kimmjen&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" height="200"/>
+</a>
 
 </div>
 
@@ -160,7 +166,7 @@ const jeminKim = {
 
 **Thanks for visiting! Feel free to reach out! 👋**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimmjen&count_bg=%2358A6FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+![](https://komarev.com/ghpvc/?username=kimmjen&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
 
