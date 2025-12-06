@@ -1,16 +1,22 @@
 <div align="center">
 
 <!-- Header Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jemin%20Kim&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18)
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Hi+there!+I'm+kimmjen+%F0%9F%91%8B;Building+awesome+things+with+code+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=3%2B+Years+in+Energy+IT+%26+Full-Stack+Development+%F0%9F%94%8B;VPP+Data+Processing+Performance+Improved+25x+%F0%9F%9A%80;Building+Scalable+Systems+with+Vue.js%2C+Python%2C+AWS+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=kimmjen&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kimmjen&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+  <a href="https://github.com/kimmjen?tab=followers">
+    <img src="https://img.shields.io/github/followers/kimmjen?style=for-the-badge&logo=github&color=181717" alt="GitHub followers"/>
+  </a>
+</p>
 
-<!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/kimmjen?style=for-the-badge&logo=github&color=181717)](https://github.com/kimmjen)
+<!-- Contact Badges -->
+[![Email](https://img.shields.io/badge/wpals814@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:wpals814@naver.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kimmjen.github.io/kimmjen-portfolio)
 
 </div>
 
@@ -18,19 +24,52 @@
 
 ## 🙋‍♂️ About Me
 
-```javascript
-const kimmjen = {
-    pronouns: "he" | "him",
-    location: "South Korea 🇰🇷",
-    currentFocus: "Building scalable web applications",
-    funFact: "I love turning coffee into code ☕→💻"
+```typescript
+const jeminKim = {
+    name: "김제민 (Jemin Kim)",
+    location: "Seoul, South Korea 🇰🇷",
+    role: "Full-Stack Developer",
+    experience: "3+ years in Energy IT & Web Development",
+    
+    achievements: {
+        "VPP 데이터 처리 성능": "25배 개선 🚀",
+        "배포 시간 단축": "40% 감소",
+        "UI 로딩 시간": "30% 개선"
+    },
+    
+    currentFocus: [
+        "실시간 데이터 처리 시스템",
+        "CI/CD 파이프라인 자동화",
+        "클라우드 인프라 최적화"
+    ]
 };
 ```
 
-- 🔭 현재 다양한 웹 프로젝트를 개발하고 있습니다
-- 🌱 새로운 기술을 배우고 성장하는 것을 좋아합니다
-- 💡 문제 해결과 효율적인 코드를 추구합니다
-- 🎯 2025년 목표: 오픈소스 기여 & 사이드 프로젝트 완성
+<table>
+<tr>
+<td width="50%">
+
+### � Career Summary
+
+| 기간 | 회사 | 역할 |
+|:---:|:---:|:---:|
+| 2022.08 ~ 2024.07 | **㈜이아이피그리드** | AI팀 대리 |
+| 2021.12 ~ 2022.08 | **㈜아이온커뮤니케이션즈** | 데이터분석팀 |
+| 2024.12 ~ 2025.03 | **소프트웨어공작소** | 프론트엔드 |
+
+</td>
+<td width="50%">
+
+### 🎯 Key Highlights
+
+- 🔋 **VPP(가상발전소)** 데이터 처리 성능 25배 향상
+- ⚡ **전기차 충전 대시보드** 실시간 시스템 구축
+- 🔄 **GitHub Actions CI/CD** 파이프라인 구축
+- ☁️ **AWS 마이그레이션** (EC2 → Elastic Beanstalk)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -39,39 +78,100 @@ const kimmjen = {
 <div align="center">
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🎨 Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🗄️ Database & Cloud
+### 🗄️ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🔧 DevOps & Tools
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔋 D3 (Dare Discovery Den)
+**데이터 관리 및 시각화 플랫폼**
+
+- Vue.js 기반 직관적인 UI 설계
+- Flask API 설계 및 구현
+- PostgreSQL 대규모 데이터 최적화
+- GitHub Actions CI/CD 구축 → **배포 시간 40% 단축**
+- AWS EC2 → Elastic Beanstalk 마이그레이션
+
+`Vue.js` `Flask` `PostgreSQL` `AWS` `GitHub Actions`
+
+</td>
+<td width="50%">
+
+### ⚡ Arkn Project
+**전기차 충전소 실시간 대시보드**
+
+- WebSocket 기반 실시간 데이터 처리
+- MBESS 시스템 충전량/방전량 시각화
+- 배터리 상태 모니터링 UI
+- **UI 로딩 시간 30% 단축**
+
+`Vue.js` `WebSocket` `Real-time Data`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 D1 (Data Analysis Server)
+**CBL 예측 서비스**
+
+- 한국/일본 전력거래소 기준 CBL 시스템
+- 이상치 분석 및 예측 정확도 향상
+- Git 브랜치 전략 수립
+- CI/CD 자동화 환경 구축
+
+`Python` `Flask` `KDB+` `GitHub Actions`
+
+</td>
+<td width="50%">
+
+### 🏛️ 국회 AI 데이터 구축
+**데이터 라벨링 품질 관리**
+
+- 데이터 라벨러 → 검수자 역할 전환
+- 검수 표준 가이드 제작
+- **labeling-qc.com** 플랫폼 개발
+  - 작업량 관리, 중복 체크, 자동 검사
+
+`Data Labeling` `QC` `Process Automation`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -79,17 +179,13 @@ const kimmjen = {
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=kimmjen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="180"/>
-
-<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmjen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180"/>
 
 </div>
 
 <div align="center">
 
-<!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimmjen&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" height="200"/>
 
 </div>
@@ -116,34 +212,13 @@ const kimmjen = {
 
 ---
 
-## 🐍 Contribution Snake
+## � Contact Me
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/kimmjen/kimmjen/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🎵 Now Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-kimmjen.vercel.app/api/spotify)](https://open.spotify.com/user/kimmjen)
-
-</div>
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kimmjen)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kimmjen)
+[![Email](https://img.shields.io/badge/Email-wpals814@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:wpals814@naver.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kimmjen.github.io-000000?style=for-the-badge&logo=github&logoColor=white)](https://kimmjen.github.io/kimmjen-portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-kimmjen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kimmjen)
 
 </div>
 
@@ -151,19 +226,9 @@ const kimmjen = {
 
 <div align="center">
 
-### 💬 Random Dev Quote
+### 💬 Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Fun Fact
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+> *"복잡한 문제를 단순하게, 단순한 코드로 강력하게"*
 
 </div>
 
@@ -171,7 +236,7 @@ const kimmjen = {
 
 <div align="center">
 
-**Thanks for visiting! 😄**
+**Thanks for visiting! Feel free to reach out! �**
 
 ![Visitor Count](https://profile-counter.glitch.me/kimmjen/count.svg)
 
