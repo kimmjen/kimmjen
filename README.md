@@ -35,6 +35,14 @@ const jeminKim = {
 };
 ```
 
+<div align="center">
+
+### 🗺️ Developer Journey Map
+
+![Developer Journey](assets/developer_journey.png)
+
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
