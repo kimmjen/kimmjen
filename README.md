@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jemin%20Kim&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18)
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=3%2B+Years+in+Energy+IT+%26+Full-Stack+Development+%F0%9F%94%8B;VPP+Data+Processing+Performance+Improved+25x+%F0%9F%9A%80;Building+Scalable+Systems+with+Vue.js%2C+Python%2C+AWS+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;3%2B+Years+in+Web+Development+%F0%9F%9A%80;Building+Scalable+Systems+with+Vue.js%2C+Python%2C+AWS+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 <!-- Profile Views & Followers -->
 <p>
@@ -15,7 +15,9 @@
 </p>
 
 <!-- Contact Badges -->
-[![Email](https://img.shields.io/badge/wpals814@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:wpals814@naver.com)
+[![Gmail](https://img.shields.io/badge/wpals814@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wpals814@gmail.com)
+[![Naver](https://img.shields.io/badge/wpals814@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:wpals814@naver.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jemin-kim-b381551aa/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kimmjen.github.io/kimmjen-portfolio)
 
 </div>
@@ -94,7 +96,7 @@ const jeminKim = {
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kimmjen&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kimmjen&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -158,7 +160,7 @@ const jeminKim = {
 
 **Thanks for visiting! Feel free to reach out! 👋**
 
-![Visitor Count](https://profile-counter.glitch.me/kimmjen/count.svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimmjen&count_bg=%2358A6FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
